@@ -1,0 +1,59 @@
+{
+  "provider": "Volcengine Ark",
+  "asset_library": "private_virtual_portrait_assets",
+  "group_id": "group-20260430151710-f8dkm",
+  "project_name": "default",
+  "usage": "ep01_sh02 非九宫格视频生成：人物参考图入私域素材库，避免公网真人隐私拦截",
+  "status": "Active",
+  "assets": {
+    "图片1": {
+      "role": "character_face",
+      "asset_id": "asset-20260430151711-68hvx",
+      "asset_uri": "asset://asset-20260430151711-68hvx",
+      "group_id": "group-20260430151710-f8dkm",
+      "status": "Active",
+      "asset_type": "Image",
+      "source_image_path": "characters/修罗女帝之绝世无双/皇城之主/images/皇城之主_皇座衰老态_面部头像.png",
+      "archived_original_path": "volcengine-private-assets/originals/ep01_sh02_direct_refs_图片1_character_face.png",
+      "source_image_url": "https://static1203.yingsaidata.com/comic-create/seedance-refs/ep01_sh02/01_皇城之主_皇座衰老态_面部头像.png",
+      "reuse_note": "后续需要以 图片1 作为人物参考图生成 ep01_sh02 或相关镜头视频时，优先复用 asset_uri。",
+      "create_asset_request_id": "202604301517106A2A8AA79FFB64C1CCAF",
+      "last_get_asset_request_id": "2026043015172704DE9680414C70214A04",
+      "last_checked_at": 1777533447
+    },
+    "图片2": {
+      "role": "character_fullbody",
+      "asset_id": "asset-20260430151712-gqd8x",
+      "asset_uri": "asset://asset-20260430151712-gqd8x",
+      "group_id": "group-20260430151710-f8dkm",
+      "status": "Active",
+      "asset_type": "Image",
+      "source_image_path": "characters/修罗女帝之绝世无双/皇城之主/images/皇城之主_皇座衰老态_9x16全身.png",
+      "archived_original_path": "volcengine-private-assets/originals/ep01_sh02_direct_refs_图片2_character_fullbody.png",
+      "source_image_url": "https://static1203.yingsaidata.com/comic-create/seedance-refs/ep01_sh02/02_皇城之主_皇座衰老态_9x16全身.png",
+      "reuse_note": "后续需要以 图片2 作为人物参考图生成 ep01_sh02 或相关镜头视频时，优先复用 asset_uri。",
+      "create_asset_request_id": "20260430151711AF04A18A9C45C64865A8",
+      "last_get_asset_request_id": "20260430151728DF49CEB20462AAEA5950",
+      "last_checked_at": 1777533447
+    }
+  },
+  "created_at": 1777533430,
+  "last_checked_at": 1777533447,
+  "create_asset_group_request_id": "20260430151710AD90922D72A1943D3312",
+  "status_history": [
+    {
+      "time": 1777533432,
+      "statuses": {
+        "图片1": "Processing",
+        "图片2": "Processing"
+      }
+    },
+    {
+      "time": 1777533447,
+      "statuses": {
+        "图片1": "Active",
+        "图片2": "Active"
+      }
+    }
+  ]
+}

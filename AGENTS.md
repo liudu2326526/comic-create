@@ -22,6 +22,7 @@
 - `scripts/epNN/`：每集分镜剧本，`script.json` 为权威数据源，`script.md` 可作为可读版。
 - `continuity/`：分集状态、伏笔、角色状态、诊断报告。
 - `output/`：最终项目 manifest 和每集提示词包。
+- `volcengine-private-assets/`：火山私域素材资产库入库记录；`originals/` 存放实际提交入库的原图副本，`records/` 存放对应 `asset_id`、素材来源、用途和复用说明。
 
 ## 漫剧创建流程
 
@@ -41,6 +42,7 @@
 - 生成场景参考图时默认使用横屏构图，并采用远景镜头呈现场景全貌；不要用近景或局部特写作为场景主参考图。
 - 生成道具参考图时默认使用 1:1 正方形构图，主体居中完整呈现，便于后续作为分镜或视频生成的稳定道具参考。
 - 视频提示词必须基于分镜图片提示词派生，不要独立另写一套场景和动作。
+- 如需把人物或含人物形象的参考图提交到火山私域素材资产库，必须同时把提交入库的原图副本归档到 `volcengine-private-assets/originals/`，并在 `volcengine-private-assets/records/` 写入同名 JSON 记录，至少包含 `asset_id`、`asset_uri`、`group_id`、原始文件路径、入库原图归档路径、用途、状态和后续复用说明。
 - 每个镜头必须保持角色、场景、道具引用可追溯到 Phase 2 设计文件。
 - `scripts/epNN/script.json` 是剧本权威来源，Markdown 表格只是辅助阅读。
 - `output/` 中的 JSON 必须可被标准 JSON 解析器解析，不能包含注释、尾逗号或 Markdown。

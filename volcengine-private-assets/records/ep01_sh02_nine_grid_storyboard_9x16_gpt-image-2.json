@@ -1,0 +1,30 @@
+{
+  "provider": "Volcengine Ark",
+  "asset_library": "private_virtual_portrait_assets",
+  "asset_id": "asset-20260430151213-5wt4r",
+  "asset_uri": "asset://asset-20260430151213-5wt4r",
+  "group_id": "group-20260430151212-hxl58",
+  "project_name": "default",
+  "status": "Active",
+  "asset_type": "Image",
+  "usage": "ep01_sh02 Seedance 2.0 视频生成参考图，来源为 9:16 九宫格连续分镜图",
+  "source_image_path": "scripts/ep01/images/ep01_sh02_九宫格分镜_gpt-image-2.png",
+  "archived_original_path": "volcengine-private-assets/originals/ep01_sh02_nine_grid_storyboard_9x16_gpt-image-2.png",
+  "source_image_url": "https://static1203.yingsaidata.com/comic-create/scripts/ep01/images/ep01_sh02_nine_grid_storyboard_9x16_gpt-image-2.png",
+  "reuse_note": "后续同一镜头或同一九宫格参考生成视频时，优先复用 asset_uri，不再重复入库。",
+  "created_at": 1777533132,
+  "last_checked_at": 1777533148,
+  "create_asset_group_request_id": "202604301512118FD5DD6DC53B1A33E302",
+  "create_asset_request_id": "20260430151212F8FFCDA8D3C34A713441",
+  "last_get_asset_request_id": "20260430151228570D8392904FAAF32356",
+  "status_history": [
+    {
+      "time": 1777533132,
+      "status": "Processing"
+    },
+    {
+      "time": 1777533148,
+      "status": "Active"
+    }
+  ]
+}

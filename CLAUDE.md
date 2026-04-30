@@ -42,6 +42,7 @@
 - 分镜剧本：`scripts/epNN/`
 - 连贯性和诊断：`continuity/`
 - 最终提示词包：`output/`
+- 火山私域素材资产库记录：`volcengine-private-assets/`，其中 `originals/` 存放入库原图副本，`records/` 存放对应 `asset_id` 和复用信息。
 
 ## 生成规则
 
@@ -55,6 +56,7 @@
 - 镜头中引用的角色名、角色变体、场景名、场景变体必须能在设计文件中找到。
 - 分镜图片提示词必须使用角色名字，不能只写“24岁男性”“中年女性”。
 - 视频提示词必须从分镜图片提示词扩写，保留同一场景、角色、动作和情绪。
+- 人物或含人物形象的参考图提交到火山私域素材资产库时，必须把实际提交的原图副本归档到 `volcengine-private-assets/originals/`，并在 `volcengine-private-assets/records/` 写入同名 JSON 记录，记录 `asset_id`、`asset_uri`、`group_id`、来源路径、归档路径、用途、状态和后续复用说明，后续生成视频优先复用已有 `asset_id`。
 - 音频描述要包含对白、说话人、声音特征、音效和 BGM 氛围。
 - JSON 文件必须保持合法 JSON，不写注释。
 
