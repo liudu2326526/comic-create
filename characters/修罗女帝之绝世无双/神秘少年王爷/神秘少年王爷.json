@@ -1,0 +1,25 @@
+{
+  "name": "神秘少年王爷",
+  "character_id": "char_young_prince",
+  "gender": "男",
+  "age": "少年",
+  "identity": "皇城封王少年修士",
+  "personality": {
+    "core_traits": "少年外貌却深知禁地危险，语气冷静疏离",
+    "speech_style": "清亮冷淡，带少年王者气",
+    "motivation": "服务当前剧情节点并推动柳如烟的身份、危机或线索升级"
+  },
+  "voice_default": {
+    "gender": "male",
+    "age_desc": "少年",
+    "timbre": "清亮冷淡，带少年王者气"
+  },
+  "variants": {
+    "禁地警告": {
+      "description": "皇城封王少年修士",
+      "appearance": "见提示词中的人物外观设定",
+      "outfit": "见提示词中的服装与配饰设定",
+      "prompt": "灾恶之地、少年、男、黑发束冠、墨蓝王袍、银色护腕、黑靴、腰挂玉佩、面容俊秀眼神警惕，电影写实风格，高质量，真实光影，电影级打光，8K分辨率，超高清细节，全身，纯色背景，面向镜头"
+    }
+  }
+}

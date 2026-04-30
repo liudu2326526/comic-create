@@ -1,0 +1,25 @@
+{
+  "name": "系统",
+  "character_id": "char_system",
+  "gender": "未明",
+  "age": "未明",
+  "identity": "规则级辅助",
+  "personality": {
+    "core_traits": "理性、机械、在关键时刻给出奖励和限制",
+    "speech_style": "电子合成音，冷静无情绪",
+    "motivation": "服务当前剧情节点并推动柳如烟的身份、危机或线索升级"
+  },
+  "voice_default": {
+    "gender": "neutral",
+    "age_desc": "未明",
+    "timbre": "电子合成音，冷静无情绪"
+  },
+  "variants": {
+    "金色界面": {
+      "description": "规则级辅助",
+      "appearance": "见提示词中的人物外观设定",
+      "outfit": "见提示词中的服装与配饰设定",
+      "prompt": "系统空间、未明性别、规则级辅助、无实体人身、无服装鞋履配饰、金色半透明界面和悬浮文字构成的光影轮廓，电影写实风格，高质量，真实光影，电影级打光，8K分辨率，超高清细节，全身，纯色背景，面向镜头"
+    }
+  }
+}

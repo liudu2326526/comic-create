@@ -1,0 +1,25 @@
+{
+  "name": "逃犯",
+  "character_id": "char_fugitives",
+  "gender": "多人",
+  "age": "成年",
+  "identity": "城市危险因素",
+  "personality": {
+    "core_traits": "紧张凶狠，制造商场枪声",
+    "speech_style": "粗哑急促，带威胁感",
+    "motivation": "服务当前剧情节点并推动柳如烟的身份、危机或线索升级"
+  },
+  "voice_default": {
+    "gender": "neutral",
+    "age_desc": "成年",
+    "timbre": "粗哑急促，带威胁感"
+  },
+  "variants": {
+    "默认": {
+      "description": "城市危险因素",
+      "appearance": "见提示词中的人物外观设定",
+      "outfit": "见提示词中的服装与配饰设定",
+      "prompt": "现代商业街、成年多人、男为主、凌乱短发、深色夹克、牛仔裤、运动鞋、遮脸帽和简陋武器、神情凶狠慌张，电影写实风格，高质量，真实光影，电影级打光，8K分辨率，超高清细节，全身，纯色背景，面向镜头"
+    }
+  }
+}

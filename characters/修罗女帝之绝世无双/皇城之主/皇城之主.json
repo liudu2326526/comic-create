@@ -1,0 +1,25 @@
+{
+  "name": "皇城之主",
+  "character_id": "char_huangcheng_zhu",
+  "gender": "男",
+  "age": "中老年",
+  "identity": "化神修士、皇城最高统治者",
+  "personality": {
+    "core_traits": "寿元将尽、威严深沉、长生执念强烈",
+    "speech_style": "低沉威严，带久居高位的压迫",
+    "motivation": "服务当前剧情节点并推动柳如烟的身份、危机或线索升级"
+  },
+  "voice_default": {
+    "gender": "male",
+    "age_desc": "中老年",
+    "timbre": "低沉威严，带久居高位的压迫"
+  },
+  "variants": {
+    "皇座衰老态": {
+      "description": "化神修士、皇城最高统治者",
+      "appearance": "见提示词中的人物外观设定",
+      "outfit": "见提示词中的服装与配饰设定",
+      "prompt": "仙侠皇城、中老年、男、黑发夹杂银丝、暗金皇袍、玉带、黑金靴、帝王冠冕、面色苍白眼神执拗，电影写实风格，高质量，真实光影，电影级打光，8K分辨率，超高清细节，全身，纯色背景，面向镜头"
+    }
+  }
+}

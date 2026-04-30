@@ -1,0 +1,25 @@
+{
+  "name": "白发老人",
+  "character_id": "char_white_haired_elder",
+  "gender": "男",
+  "age": "老年",
+  "identity": "唐星梦父亲、托付者",
+  "personality": {
+    "core_traits": "老练识人，愿意把女儿托付给强者",
+    "speech_style": "苍老但清醒，语速缓慢",
+    "motivation": "服务当前剧情节点并推动柳如烟的身份、危机或线索升级"
+  },
+  "voice_default": {
+    "gender": "male",
+    "age_desc": "老年",
+    "timbre": "苍老但清醒，语速缓慢"
+  },
+  "variants": {
+    "酒庄托付": {
+      "description": "唐星梦父亲、托付者",
+      "appearance": "见提示词中的人物外观设定",
+      "outfit": "见提示词中的服装与配饰设定",
+      "prompt": "星梦酒庄、老年、男、白发梳齐、深色中式外套、长裤、皮鞋、玉扳指、眼神清醒带试探，电影写实风格，高质量，真实光影，电影级打光，8K分辨率，超高清细节，全身，纯色背景，面向镜头"
+    }
+  }
+}

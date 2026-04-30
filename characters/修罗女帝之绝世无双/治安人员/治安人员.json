@@ -1,0 +1,25 @@
+{
+  "name": "治安人员",
+  "character_id": "char_security_officers",
+  "gender": "多人",
+  "age": "成年",
+  "identity": "城市秩序力量",
+  "personality": {
+    "core_traits": "训练有素，迅速封控现场",
+    "speech_style": "短促果断，标准指令口吻",
+    "motivation": "服务当前剧情节点并推动柳如烟的身份、危机或线索升级"
+  },
+  "voice_default": {
+    "gender": "neutral",
+    "age_desc": "成年",
+    "timbre": "短促果断，标准指令口吻"
+  },
+  "variants": {
+    "默认": {
+      "description": "城市秩序力量",
+      "appearance": "见提示词中的人物外观设定",
+      "outfit": "见提示词中的服装与配饰设定",
+      "prompt": "现代城市、成年多人、男女混合、整齐短发、深蓝制服、防护背心、黑靴、通讯耳机和警用装备、神情严肃，电影写实风格，高质量，真实光影，电影级打光，8K分辨率，超高清细节，全身，纯色背景，面向镜头"
+    }
+  }
+}

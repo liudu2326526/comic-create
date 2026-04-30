@@ -1,0 +1,517 @@
+{
+  "episode": {
+    "number": 1,
+    "title": "女帝轮回",
+    "duration_target": "90s",
+    "style": "爽文漫剧",
+    "emotion_arc": "宏大压迫 -> 长生诱惑 -> 神血反噬 -> 雨夜绝境 -> 火莲爆发 -> 神域试炼 -> 侥幸重生"
+  },
+  "shots": [
+    {
+      "shot_id": "ep01_sh01",
+      "shot_number": 1,
+      "duration": "6s",
+      "characters": [],
+      "scene": "混沌虚空",
+      "scene_variant": "帝尸横亘",
+      "shot_type": "远景",
+      "camera_movement": "缓慢推进",
+      "action_desc": "混沌深处，古老帝尸横亘在星河之间，大道法则如锁链垂落，远处黑暗翻涌，像有灾厄正在苏醒",
+      "dialogue": null,
+      "sfx": [
+        "低沉宇宙轰鸣",
+        "法则锁链震动声"
+      ],
+      "bgm": "低频神话压迫感音乐",
+      "source_anchor": "P-001",
+      "emotion_level": 4,
+      "narration": "混沌尽头，一具帝尸镇压万古，也镇不住长生的贪念。",
+      "props": []
+    },
+    {
+      "shot_id": "ep01_sh02",
+      "shot_number": 2,
+      "duration": "6s",
+      "characters": [
+        {
+          "name": "皇城之主",
+          "variant": "皇座衰老态"
+        }
+      ],
+      "scene": "皇城",
+      "scene_variant": "寿元将尽",
+      "shot_type": "中景",
+      "camera_movement": "推",
+      "action_desc": "皇城大殿内，皇城之主坐在高位上，手指攥紧扶手，苍老面容被金色烛火切成明暗两半",
+      "dialogue": {
+        "speaker": "皇城之主",
+        "text": "朕还不能死。",
+        "emotion": "压抑而贪婪"
+      },
+      "sfx": [
+        "烛火爆裂",
+        "衣袖摩擦"
+      ],
+      "bgm": "暗金色皇权压迫音乐",
+      "source_anchor": "P-001",
+      "emotion_level": 4,
+      "narration": "寿元将尽的皇城之主，把最后的生机押在了禁地深处。",
+      "props": []
+    },
+    {
+      "shot_id": "ep01_sh03",
+      "shot_number": 3,
+      "duration": "7s",
+      "characters": [
+        {
+          "name": "柳如烟",
+          "variant": "封王修士"
+        }
+      ],
+      "scene": "皇城",
+      "scene_variant": "寿元将尽",
+      "shot_type": "全景",
+      "camera_movement": "跟",
+      "action_desc": "柳如烟（封王修士）从皇城长阶上走下，玄紫长袍随风翻起，身后宫门缓缓关闭，她目光冷静地望向远处禁地方向",
+      "dialogue": null,
+      "sfx": [
+        "沉重宫门关闭",
+        "长袍被风掀动"
+      ],
+      "bgm": "女主出场的冷峻弦乐",
+      "source_anchor": "P-002",
+      "emotion_level": 3,
+      "narration": "柳如烟，皇城封王修士，距离更高境界只差一步，却已被推向最危险的棋盘。",
+      "props": []
+    },
+    {
+      "shot_id": "ep01_sh04",
+      "shot_number": 4,
+      "duration": "6s",
+      "characters": [
+        {
+          "name": "柳如烟",
+          "variant": "封王修士"
+        },
+        {
+          "name": "神秘少年王爷",
+          "variant": "禁地警告"
+        }
+      ],
+      "scene": "灾恶之地",
+      "scene_variant": "禁地寻药",
+      "shot_type": "中景",
+      "camera_movement": "摇",
+      "action_desc": "灾恶之地阴雾翻涌，柳如烟（封王修士）停步抬眼，神秘少年王爷（禁地警告）立在残破石碑旁，黑色羽毛披风被煞气吹起",
+      "dialogue": {
+        "speaker": "神秘少年王爷",
+        "text": "这里不是你该来的地方。",
+        "emotion": "冷峻警告"
+      },
+      "sfx": [
+        "阴风穿过石碑",
+        "羽毛披风猎猎作响"
+      ],
+      "bgm": "紧张禁地氛围音乐",
+      "source_anchor": "P-003",
+      "emotion_level": 3,
+      "narration": "诸王私会，本就是禁忌；可她已经没有退路。",
+      "props": []
+    },
+    {
+      "shot_id": "ep01_sh05",
+      "shot_number": 5,
+      "duration": "7s",
+      "characters": [
+        {
+          "name": "柳如烟",
+          "variant": "封王修士"
+        }
+      ],
+      "scene": "灾恶之地",
+      "scene_variant": "禁地寻药",
+      "shot_type": "近景",
+      "camera_movement": "固定",
+      "action_desc": "柳如烟（封王修士）在荒芜祭台前伸手，悬浮的金色神血忽然脱离封印，化作一道灿金流光没入她眉心",
+      "dialogue": null,
+      "sfx": [
+        "封印碎裂",
+        "金光刺入眉心"
+      ],
+      "bgm": "骤然拔高的危机音乐",
+      "source_anchor": "P-004",
+      "emotion_level": 5,
+      "narration": "那不是长生不死药，而是一滴足以撑裂结丹修士的金色神血。",
+      "props": [
+        {
+          "name": "金色神血",
+          "status": "主动没入柳如烟眉心"
+        }
+      ]
+    },
+    {
+      "shot_id": "ep01_sh06",
+      "shot_number": 6,
+      "duration": "7s",
+      "characters": [
+        {
+          "name": "柳如烟",
+          "variant": "封王修士"
+        }
+      ],
+      "scene": "灾恶之地",
+      "scene_variant": "禁地寻药",
+      "shot_type": "特写",
+      "camera_movement": "快速推进",
+      "action_desc": "柳如烟（封王修士）脸上浮现裂纹，金光从血肉中迸出，她强行抬手压住眉心，眼神从震惊转为冰冷",
+      "dialogue": {
+        "speaker": "柳如烟",
+        "text": "原来，我也是祭品。",
+        "emotion": "冷悟与不甘"
+      },
+      "sfx": [
+        "血肉撕裂的闷响",
+        "能量爆裂"
+      ],
+      "bgm": "爆发式反噬音乐",
+      "source_anchor": "P-005",
+      "emotion_level": 5,
+      "narration": "长生的代价，从来不会由坐在皇座上的人亲自偿还。",
+      "props": [
+        {
+          "name": "金色神血",
+          "status": "在柳如烟体内反噬爆发"
+        }
+      ]
+    },
+    {
+      "shot_id": "ep01_sh07",
+      "shot_number": 7,
+      "duration": "6s",
+      "characters": [
+        {
+          "name": "柳如烟",
+          "variant": "雨夜觉醒"
+        }
+      ],
+      "scene": "雨夜城市",
+      "scene_variant": "血雨初醒",
+      "shot_type": "全景",
+      "camera_movement": "拉",
+      "action_desc": "暴雨砸落在城市废街上，柳如烟（雨夜觉醒）倒在积水中缓慢睁眼，破损紫衣被血和雨水浸透，霓虹倒影在她眼底扭曲",
+      "dialogue": null,
+      "sfx": [
+        "暴雨声",
+        "远处警报残响"
+      ],
+      "bgm": "现代异变悬疑音乐",
+      "source_anchor": "P-006",
+      "emotion_level": 4,
+      "narration": "死亡之后，她没有归于虚无，而是坠入一座陌生的雨夜城市。",
+      "props": []
+    },
+    {
+      "shot_id": "ep01_sh08",
+      "shot_number": 8,
+      "duration": "6s",
+      "characters": [
+        {
+          "name": "柳如烟",
+          "variant": "雨夜觉醒"
+        },
+        {
+          "name": "诡异生物",
+          "variant": "雨夜怪物"
+        }
+      ],
+      "scene": "雨夜城市",
+      "scene_variant": "血雨初醒",
+      "shot_type": "中景",
+      "camera_movement": "跟",
+      "action_desc": "诡异生物（雨夜怪物）从雨幕深处逼近，沉重脚步震碎水花；柳如烟（雨夜觉醒）扶着墙站起，嘴角带血，目光锁定怪物",
+      "dialogue": null,
+      "sfx": [
+        "怪物低吼",
+        "水花被踩碎"
+      ],
+      "bgm": "危机逼近的鼓点",
+      "source_anchor": "P-007",
+      "emotion_level": 5,
+      "narration": "她重伤未愈，却知道自己一旦倒下，这座城也会被拖入深渊。",
+      "props": []
+    },
+    {
+      "shot_id": "ep01_sh09",
+      "shot_number": 9,
+      "duration": "7s",
+      "characters": [
+        {
+          "name": "柳如烟",
+          "variant": "雨夜觉醒"
+        },
+        {
+          "name": "诡异生物",
+          "variant": "雨夜怪物"
+        }
+      ],
+      "scene": "雨夜城市",
+      "scene_variant": "血雨初醒",
+      "shot_type": "近景",
+      "camera_movement": "环绕",
+      "action_desc": "柳如烟（雨夜觉醒）摊开染血手掌，紫色火莲在掌心绽放，紫焰映亮她苍白的脸，诡异生物（雨夜怪物）本能后退",
+      "dialogue": {
+        "speaker": "柳如烟",
+        "text": "退。",
+        "emotion": "虚弱却威严"
+      },
+      "sfx": [
+        "火焰绽放",
+        "怪物惊惧嘶吼"
+      ],
+      "bgm": "女主反击高燃音乐",
+      "source_anchor": "P-007",
+      "emotion_level": 5,
+      "narration": "绝境之中，毁灭之火第一次回应了她。",
+      "props": [
+        {
+          "name": "紫色火莲",
+          "status": "从柳如烟掌心成形"
+        }
+      ]
+    },
+    {
+      "shot_id": "ep01_sh10",
+      "shot_number": 10,
+      "duration": "6s",
+      "characters": [
+        {
+          "name": "柳如烟",
+          "variant": "雨夜觉醒"
+        },
+        {
+          "name": "诡异生物",
+          "variant": "雨夜怪物"
+        }
+      ],
+      "scene": "雨夜城市",
+      "scene_variant": "血雨初醒",
+      "shot_type": "全景",
+      "camera_movement": "拉",
+      "action_desc": "紫色火莲轰然铺开，紫焰吞没诡异生物（雨夜怪物），柳如烟（雨夜觉醒）在火光边缘跪倒，脸上露出短暂释然",
+      "dialogue": null,
+      "sfx": [
+        "紫焰爆燃",
+        "怪物消散"
+      ],
+      "bgm": "高燃后骤然低落的音乐",
+      "source_anchor": "P-008",
+      "emotion_level": 5,
+      "narration": "她赢了这一战，也耗尽了最后一点意识。",
+      "props": [
+        {
+          "name": "紫色火莲",
+          "status": "吞噬诡异生物后逐渐熄灭"
+        }
+      ]
+    },
+    {
+      "shot_id": "ep01_sh11",
+      "shot_number": 11,
+      "duration": "7s",
+      "characters": [
+        {
+          "name": "柳如烟",
+          "variant": "雨夜觉醒"
+        },
+        {
+          "name": "神秘神圣存在",
+          "variant": "金光羽翼形态"
+        }
+      ],
+      "scene": "神秘棋局空间",
+      "scene_variant": "命运对弈",
+      "shot_type": "远景",
+      "camera_movement": "摇",
+      "action_desc": "九色神雷撕开灰暗天穹，神秘神圣存在（金光羽翼形态）降临棋局上方，柳如烟（雨夜觉醒）站在红棋一侧仰头凝视",
+      "dialogue": {
+        "speaker": "神秘神圣存在",
+        "text": "赢下一局，你就可以离开。",
+        "emotion": "神性冷漠"
+      },
+      "sfx": [
+        "九色雷霆炸响",
+        "羽翼光芒展开"
+      ],
+      "bgm": "神域审判音乐",
+      "source_anchor": "P-009",
+      "emotion_level": 4,
+      "narration": "她以为逃出了死亡，却发现自己只是落入了更大的棋局。",
+      "props": [
+        {
+          "name": "红色棋子",
+          "status": "位于柳如烟阵营"
+        },
+        {
+          "name": "黑色棋子",
+          "status": "位于神秘神圣存在阵营"
+        }
+      ]
+    },
+    {
+      "shot_id": "ep01_sh12",
+      "shot_number": 12,
+      "duration": "7s",
+      "characters": [
+        {
+          "name": "柳如烟",
+          "variant": "雨夜觉醒"
+        },
+        {
+          "name": "神秘神圣存在",
+          "variant": "棋局虚影"
+        }
+      ],
+      "scene": "神秘棋局空间",
+      "scene_variant": "命运对弈",
+      "shot_type": "近景",
+      "camera_movement": "固定",
+      "action_desc": "柳如烟（雨夜觉醒）指尖按住红色棋子，黑色棋子围杀而来；她抬眸，落子切入死角，棋盘上的红光瞬间贯穿黑阵",
+      "dialogue": {
+        "speaker": "柳如烟",
+        "text": "将军。",
+        "emotion": "冷静决绝"
+      },
+      "sfx": [
+        "棋子落盘",
+        "红光贯穿棋阵"
+      ],
+      "bgm": "命运逆转的高燃音乐",
+      "source_anchor": "P-010",
+      "emotion_level": 5,
+      "narration": "她没有退路，所以只能把死局下成生门。",
+      "props": [
+        {
+          "name": "红色棋子",
+          "status": "完成将军"
+        },
+        {
+          "name": "黑色棋子",
+          "status": "被红棋破局"
+        }
+      ]
+    },
+    {
+      "shot_id": "ep01_sh13",
+      "shot_number": 13,
+      "duration": "6s",
+      "characters": [
+        {
+          "name": "柳如烟",
+          "variant": "王魂村苏醒"
+        },
+        {
+          "name": "王魂村村长",
+          "variant": "默认"
+        }
+      ],
+      "scene": "王魂村废墟",
+      "scene_variant": "废墟救人",
+      "shot_type": "全景",
+      "camera_movement": "跟",
+      "action_desc": "夜雨过后，王魂村废墟中露出柳如烟（王魂村苏醒）的白衣身影，王魂村村长（默认）拨开碎石，俯身确认她还有呼吸",
+      "dialogue": {
+        "speaker": "王魂村村长",
+        "text": "姑娘，醒醒，还活着就好。",
+        "emotion": "惊讶又温和"
+      },
+      "sfx": [
+        "碎石滚落",
+        "清晨风声"
+      ],
+      "bgm": "劫后余生的温和音乐",
+      "source_anchor": "P-011",
+      "emotion_level": 3,
+      "narration": "再睁眼时，女帝不在皇城，也不在神域，而是在一片陌生村落的废墟里。",
+      "props": []
+    },
+    {
+      "shot_id": "ep01_sh14",
+      "shot_number": 14,
+      "duration": "8s",
+      "characters": [
+        {
+          "name": "柳如烟",
+          "variant": "王魂村苏醒"
+        },
+        {
+          "name": "王魂村村长",
+          "variant": "默认"
+        }
+      ],
+      "scene": "王魂村村长家",
+      "scene_variant": "简朴室内",
+      "shot_type": "近景",
+      "camera_movement": "推",
+      "action_desc": "破旧屋内，王魂村村长（默认）端着食物走近，柳如烟（王魂村苏醒）刚伸手接过，脑海闪回金色神血、紫色火莲和红黑棋局；她低头看向掌心，一缕紫光悄然浮现",
+      "dialogue": {
+        "speaker": "王魂村村长",
+        "text": "先吃点东西吧。",
+        "emotion": "朴实关切"
+      },
+      "sfx": [
+        "木门轻响",
+        "记忆闪回嗡鸣",
+        "微弱能量声"
+      ],
+      "bgm": "悬念收束音乐",
+      "source_anchor": "P-011",
+      "emotion_level": 4,
+      "narration": "她还不知道，轮回不是结束，而是另一场棋局的开始。",
+      "props": [
+        {
+          "name": "金色神血",
+          "status": "以记忆闪回形式出现"
+        },
+        {
+          "name": "紫色火莲",
+          "status": "化作掌心紫光伏笔"
+        },
+        {
+          "name": "红色棋子",
+          "status": "以棋局记忆闪回出现"
+        },
+        {
+          "name": "黑色棋子",
+          "status": "以棋局记忆闪回出现"
+        }
+      ]
+    }
+  ],
+  "episode_summary": {
+    "total_shots": 14,
+    "characters_used": [
+      "柳如烟",
+      "皇城之主",
+      "神秘少年王爷",
+      "诡异生物",
+      "神秘神圣存在",
+      "王魂村村长"
+    ],
+    "scenes_used": [
+      "混沌虚空",
+      "皇城",
+      "灾恶之地",
+      "雨夜城市",
+      "神秘棋局空间",
+      "王魂村废墟",
+      "王魂村村长家"
+    ],
+    "props_used": [
+      "金色神血",
+      "紫色火莲",
+      "红色棋子",
+      "黑色棋子"
+    ],
+    "hook": "柳如烟在王魂村村长家低头看向掌心，一缕紫光悄然浮现，暗示金色神血、紫色火莲和棋局记忆仍在体内延续"
+  }
+}

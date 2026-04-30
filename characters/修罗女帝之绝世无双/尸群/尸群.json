@@ -1,0 +1,25 @@
+{
+  "name": "尸群",
+  "character_id": "char_mutated_horde",
+  "gender": "多只",
+  "age": "未明",
+  "identity": "变异怪物群",
+  "personality": {
+    "core_traits": "数量压迫、嗜血、推动首次大规模战斗",
+    "speech_style": "群体嘶吼，混乱压迫",
+    "motivation": "服务当前剧情节点并推动柳如烟的身份、危机或线索升级"
+  },
+  "voice_default": {
+    "gender": "neutral",
+    "age_desc": "未明",
+    "timbre": "群体嘶吼，混乱压迫"
+  },
+  "variants": {
+    "默认": {
+      "description": "变异怪物群",
+      "appearance": "见提示词中的人物外观设定",
+      "outfit": "见提示词中的服装与配饰设定",
+      "prompt": "紫金之巅战场、变异尸群、多只、无发或残缺毛发、破碎衣物、赤足或残破鞋、血污利爪、眼睛浑浊动作僵硬，电影写实风格，高质量，真实光影，电影级打光，8K分辨率，超高清细节，全身，纯色背景，面向镜头"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "name": "服装店店员",
+  "character_id": "char_boutique_clerks",
+  "gender": "多人",
+  "age": "青年",
+  "identity": "高档服装店工作人员",
+  "personality": {
+    "core_traits": "职业微笑，先审视后恭敬",
+    "speech_style": "礼貌克制，态度随身份反转变化",
+    "motivation": "服务当前剧情节点并推动柳如烟的身份、危机或线索升级"
+  },
+  "voice_default": {
+    "gender": "neutral",
+    "age_desc": "青年",
+    "timbre": "礼貌克制，态度随身份反转变化"
+  },
+  "variants": {
+    "默认": {
+      "description": "高档服装店工作人员",
+      "appearance": "见提示词中的人物外观设定",
+      "outfit": "见提示词中的服装与配饰设定",
+      "prompt": "现代高档服装店、青年多人、男女混合、统一黑白制服、西裤或包裙、皮鞋、胸牌、职业微笑中带审视，电影写实风格，高质量，真实光影，电影级打光，8K分辨率，超高清细节，全身，纯色背景，面向镜头"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "name": "道",
+  "character_id": "char_dao",
+  "gender": "未明",
+  "age": "未明",
+  "identity": "更高规则存在",
+  "personality": {
+    "core_traits": "比天道更古老，语气平静却压制一切",
+    "speech_style": "极简、缓慢、像规则宣告",
+    "motivation": "点出道劫、黑暗和世界意志危机"
+  },
+  "voice_default": {
+    "gender": "neutral",
+    "age_desc": "远古规则",
+    "timbre": "深远无源，像从虚空四面传来"
+  },
+  "variants": {
+    "天外天虚影": {
+      "description": "天外天虚空中若隐若现的规则轮廓",
+      "appearance": "人形轮廓由星尘和黑白线条组成，面容不可辨",
+      "outfit": "无形黑白长袍、星尘披肩",
+      "prompt": "天外天虚空、未明性别、远古规则存在、人形轮廓由星尘和黑白线条组成、无形黑白长袍、星尘披肩、面容不可辨，电影写实风格，高质量，真实光影，电影级打光，8K分辨率，超高清细节，全身，纯色背景，面向镜头"
+    }
+  }
+}

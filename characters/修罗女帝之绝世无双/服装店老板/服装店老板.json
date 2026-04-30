@@ -1,0 +1,25 @@
+{
+  "name": "服装店老板",
+  "character_id": "char_boutique_owner",
+  "gender": "未明",
+  "age": "中年",
+  "identity": "高档服装店负责人",
+  "personality": {
+    "core_traits": "势利精明，见到黑卡后迅速恭敬",
+    "speech_style": "圆滑商业腔，前慢后快",
+    "motivation": "服务当前剧情节点并推动柳如烟的身份、危机或线索升级"
+  },
+  "voice_default": {
+    "gender": "neutral",
+    "age_desc": "中年",
+    "timbre": "圆滑商业腔，前慢后快"
+  },
+  "variants": {
+    "默认": {
+      "description": "高档服装店负责人",
+      "appearance": "见提示词中的人物外观设定",
+      "outfit": "见提示词中的服装与配饰设定",
+      "prompt": "现代高档服装店、中年、未明性别、精致短发、深色定制西装、皮鞋、金属胸针、眼神精明笑容职业，电影写实风格，高质量，真实光影，电影级打光，8K分辨率，超高清细节，全身，纯色背景，面向镜头"
+    }
+  }
+}

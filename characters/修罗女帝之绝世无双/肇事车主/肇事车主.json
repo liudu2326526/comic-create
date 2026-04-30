@@ -1,0 +1,25 @@
+{
+  "name": "肇事车主",
+  "character_id": "char_hit_and_run_driver",
+  "gender": "未明",
+  "age": "成年",
+  "identity": "豪车驾驶者、逃逸者",
+  "personality": {
+    "core_traits": "慌张自私，只留下事故冲击",
+    "speech_style": "急促含混，几乎不正面露脸",
+    "motivation": "服务当前剧情节点并推动柳如烟的身份、危机或线索升级"
+  },
+  "voice_default": {
+    "gender": "neutral",
+    "age_desc": "成年",
+    "timbre": "急促含混，几乎不正面露脸"
+  },
+  "variants": {
+    "逃逸剪影": {
+      "description": "豪车驾驶者、逃逸者",
+      "appearance": "见提示词中的人物外观设定",
+      "outfit": "见提示词中的服装与配饰设定",
+      "prompt": "现代公路、成年、未明性别、面容被车窗反光遮住、深色外套、驾驶手套、无明显配饰、姿态慌张，电影写实风格，高质量，真实光影，电影级打光，8K分辨率，超高清细节，全身，纯色背景，面向镜头"
+    }
+  }
+}

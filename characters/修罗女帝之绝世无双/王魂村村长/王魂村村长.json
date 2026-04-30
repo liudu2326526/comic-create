@@ -1,0 +1,25 @@
+{
+  "name": "王魂村村长",
+  "character_id": "char_wanghun_village_chief",
+  "gender": "男",
+  "age": "老年",
+  "identity": "王魂村长者、救命恩人",
+  "personality": {
+    "core_traits": "朴素善良，谨慎但愿意救人",
+    "speech_style": "苍老温和，带乡音",
+    "motivation": "服务当前剧情节点并推动柳如烟的身份、危机或线索升级"
+  },
+  "voice_default": {
+    "gender": "male",
+    "age_desc": "老年",
+    "timbre": "苍老温和，带乡音"
+  },
+  "variants": {
+    "默认": {
+      "description": "王魂村长者、救命恩人",
+      "appearance": "见提示词中的人物外观设定",
+      "outfit": "见提示词中的服装与配饰设定",
+      "prompt": "现代乡村、老年、男、花白短发、深灰棉布外套、黑色长裤、旧布鞋、手持木拐、皱纹明显眼神温和，电影写实风格，高质量，真实光影，电影级打光，8K分辨率，超高清细节，全身，纯色背景，面向镜头"
+    }
+  }
+}

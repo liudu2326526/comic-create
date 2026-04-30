@@ -1,0 +1,25 @@
+{
+  "name": "王大刚",
+  "character_id": "char_wang_dagang",
+  "gender": "男",
+  "age": "中年",
+  "identity": "梦境中的先生",
+  "personality": {
+    "core_traits": "温和神秘，连接隐藏村落线索",
+    "speech_style": "沉稳亲切，像旧式先生",
+    "motivation": "服务当前剧情节点并推动柳如烟的身份、危机或线索升级"
+  },
+  "voice_default": {
+    "gender": "male",
+    "age_desc": "中年",
+    "timbre": "沉稳亲切，像旧式先生"
+  },
+  "variants": {
+    "梦境先生": {
+      "description": "梦境中的先生",
+      "appearance": "见提示词中的人物外观设定",
+      "outfit": "见提示词中的服装与配饰设定",
+      "prompt": "梦境村落、中年、男、短发略乱、旧式长衫、布鞋、圆框眼镜、手持书卷、神情温和却藏着秘密，电影写实风格，高质量，真实光影，电影级打光，8K分辨率，超高清细节，全身，纯色背景，面向镜头"
+    }
+  }
+}

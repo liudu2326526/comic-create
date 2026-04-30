@@ -1,0 +1,25 @@
+{
+  "name": "王魂村村民",
+  "character_id": "char_wanghun_villagers",
+  "gender": "多人",
+  "age": "成年为主",
+  "identity": "普通村民",
+  "personality": {
+    "core_traits": "好奇、善意、带乡村议论氛围",
+    "speech_style": "多人杂声，朴素直接",
+    "motivation": "服务当前剧情节点并推动柳如烟的身份、危机或线索升级"
+  },
+  "voice_default": {
+    "gender": "neutral",
+    "age_desc": "成年为主",
+    "timbre": "多人杂声，朴素直接"
+  },
+  "variants": {
+    "默认": {
+      "description": "普通村民",
+      "appearance": "见提示词中的人物外观设定",
+      "outfit": "见提示词中的服装与配饰设定",
+      "prompt": "现代乡村、多人、男女混合、朴素短发或盘发、旧夹克和棉布衣裤、布鞋、竹篮或农具、表情好奇但不恶意，电影写实风格，高质量，真实光影，电影级打光，8K分辨率，超高清细节，全身，纯色背景，面向镜头"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "name": "诡异生物",
+  "character_id": "char_weird_creature",
+  "gender": "未明",
+  "age": "未明",
+  "identity": "雨夜怪物",
+  "personality": {
+    "core_traits": "攻击性强，像现代异变的第一道裂口",
+    "speech_style": "嘶哑低吼，无人类语言",
+    "motivation": "服务当前剧情节点并推动柳如烟的身份、危机或线索升级"
+  },
+  "voice_default": {
+    "gender": "neutral",
+    "age_desc": "未明",
+    "timbre": "嘶哑低吼，无人类语言"
+  },
+  "variants": {
+    "雨夜怪物": {
+      "description": "雨夜怪物",
+      "appearance": "见提示词中的人物外观设定",
+      "outfit": "见提示词中的服装与配饰设定",
+      "prompt": "现代雨夜、未知怪物、未明性别、无发、扭曲黑灰躯体、无服装鞋履、利爪和湿冷鳞片、眼部泛白口器狰狞，电影写实风格，高质量，真实光影，电影级打光，8K分辨率，超高清细节，全身，纯色背景，面向镜头"
+    }
+  }
+}

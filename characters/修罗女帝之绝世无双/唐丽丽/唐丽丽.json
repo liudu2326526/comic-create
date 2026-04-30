@@ -1,0 +1,25 @@
+{
+  "name": "唐丽丽",
+  "character_id": "char_tang_lili",
+  "gender": "女",
+  "age": "青年",
+  "identity": "梦境中的当红歌手、逝者",
+  "personality": {
+    "core_traits": "光鲜与死亡真相交织，带唐家旧案伏笔",
+    "speech_style": "温柔空灵，带梦境回声",
+    "motivation": "服务当前剧情节点并推动柳如烟的身份、危机或线索升级"
+  },
+  "voice_default": {
+    "gender": "female",
+    "age_desc": "青年",
+    "timbre": "温柔空灵，带梦境回声"
+  },
+  "variants": {
+    "梦境歌手": {
+      "description": "梦境中的当红歌手、逝者",
+      "appearance": "见提示词中的人物外观设定",
+      "outfit": "见提示词中的服装与配饰设定",
+      "prompt": "梦境舞台、青年、女、黑色长卷发、银白演出礼服、高跟鞋、钻石耳坠、妆容精致眼神哀伤，电影写实风格，高质量，真实光影，电影级打光，8K分辨率，超高清细节，全身，纯色背景，面向镜头"
+    }
+  }
+}

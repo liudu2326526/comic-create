@@ -1,0 +1,25 @@
+{
+  "name": "酒庄服务人员",
+  "character_id": "char_winery_staff",
+  "gender": "多人",
+  "age": "青年",
+  "identity": "星梦酒庄员工",
+  "personality": {
+    "core_traits": "训练有素，懂规矩，反应快",
+    "speech_style": "恭敬清晰，商业服务口吻",
+    "motivation": "服务当前剧情节点并推动柳如烟的身份、危机或线索升级"
+  },
+  "voice_default": {
+    "gender": "neutral",
+    "age_desc": "青年",
+    "timbre": "恭敬清晰，商业服务口吻"
+  },
+  "variants": {
+    "默认": {
+      "description": "星梦酒庄员工",
+      "appearance": "见提示词中的人物外观设定",
+      "outfit": "见提示词中的服装与配饰设定",
+      "prompt": "现代星梦酒庄、青年多人、男女混合、整洁制服、西裤或长裙、皮鞋、托盘和白手套、表情克制恭敬，电影写实风格，高质量，真实光影，电影级打光，8K分辨率，超高清细节，全身，纯色背景，面向镜头"
+    }
+  }
+}
