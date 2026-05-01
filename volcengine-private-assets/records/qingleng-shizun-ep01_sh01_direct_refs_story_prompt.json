@@ -1,0 +1,245 @@
+{
+  "provider": "Volcengine Ark",
+  "asset_library": "private_virtual_portrait_assets",
+  "group_id": "group-20260430171226-5tfs4",
+  "project_name": "default",
+  "usage": "清冷师尊爬我墙 ep01_sh01 非九宫格视频生成：女配系统、时子初、星澜参考图入私域素材库，避免公网真人隐私拦截",
+  "create_asset_group_response": {
+    "ResponseMetadata": {
+      "RequestId": "20260430171226C657E58E9DFE2727B548",
+      "Action": "CreateAssetGroup",
+      "Version": "2024-01-01",
+      "Service": "ark",
+      "Region": "cn-beijing"
+    },
+    "Result": {
+      "Id": "group-20260430171226-5tfs4"
+    }
+  },
+  "assets": {
+    "图片1": {
+      "role": "character_interface",
+      "asset_id": "asset-20260430171227-sn49m",
+      "asset_uri": "asset://asset-20260430171227-sn49m",
+      "status": "Active",
+      "source_image_url": "https://static1203.yingsaidata.com/comic-create/seedance-refs/qingleng-shizun/ep01_sh01/01_女配系统_警报界面_9x16全身.png",
+      "source_image_path": "characters/清冷师尊爬我墙/女配系统/images/女配系统_警报界面_9x16全身.png",
+      "create_asset_response": {
+        "ResponseMetadata": {
+          "RequestId": "202604301712263C1EEFCFB3C71F26ECA5",
+          "Action": "CreateAsset",
+          "Version": "2024-01-01",
+          "Service": "ark",
+          "Region": "cn-beijing"
+        },
+        "Result": {
+          "Id": "asset-20260430171227-sn49m"
+        }
+      },
+      "last_checked_at": 1777540366,
+      "last_get_asset_response": {
+        "ResponseMetadata": {
+          "RequestId": "20260430171247238DC4A6FA81DC2C9BC9",
+          "Action": "GetAsset",
+          "Version": "2024-01-01",
+          "Service": "ark",
+          "Region": "cn-beijing"
+        },
+        "Result": {
+          "Id": "asset-20260430171227-sn49m",
+          "Name": "qingleng_ep01_sh01_direct_refs_图片1_character_interface",
+          "AssetType": "Image",
+          "GroupId": "group-20260430171226-5tfs4",
+          "Status": "Active",
+          "CreateTime": "2026-04-30T09:12:27Z",
+          "UpdateTime": "2026-04-30T09:12:29Z",
+          "ProjectName": "default"
+        }
+      }
+    },
+    "图片2": {
+      "role": "character_face",
+      "asset_id": "asset-20260430171228-6mc55",
+      "asset_uri": "asset://asset-20260430171228-6mc55",
+      "status": "Active",
+      "source_image_url": "https://static1203.yingsaidata.com/comic-create/seedance-refs/qingleng-shizun/ep01_sh01/02_时子初_寝殿惊醒_面部头像.png",
+      "source_image_path": "characters/清冷师尊爬我墙/时子初/images/时子初_寝殿惊醒_面部头像.png",
+      "create_asset_response": {
+        "ResponseMetadata": {
+          "RequestId": "20260430171227F583BE38AD7BA1CFD0A9",
+          "Action": "CreateAsset",
+          "Version": "2024-01-01",
+          "Service": "ark",
+          "Region": "cn-beijing"
+        },
+        "Result": {
+          "Id": "asset-20260430171228-6mc55"
+        }
+      },
+      "last_checked_at": 1777540367,
+      "last_get_asset_response": {
+        "ResponseMetadata": {
+          "RequestId": "20260430171247CCE25EEEA3C5A01B573C",
+          "Action": "GetAsset",
+          "Version": "2024-01-01",
+          "Service": "ark",
+          "Region": "cn-beijing"
+        },
+        "Result": {
+          "Id": "asset-20260430171228-6mc55",
+          "Name": "qingleng_ep01_sh01_direct_refs_图片2_character_face",
+          "AssetType": "Image",
+          "GroupId": "group-20260430171226-5tfs4",
+          "Status": "Active",
+          "CreateTime": "2026-04-30T09:12:28Z",
+          "UpdateTime": "2026-04-30T09:12:36Z",
+          "ProjectName": "default"
+        }
+      }
+    },
+    "图片3": {
+      "role": "character_fullbody",
+      "asset_id": "asset-20260430171228-xjrqk",
+      "asset_uri": "asset://asset-20260430171228-xjrqk",
+      "status": "Active",
+      "source_image_url": "https://static1203.yingsaidata.com/comic-create/seedance-refs/qingleng-shizun/ep01_sh01/03_时子初_寝殿惊醒_9x16全身.png",
+      "source_image_path": "characters/清冷师尊爬我墙/时子初/images/时子初_寝殿惊醒_9x16全身.png",
+      "create_asset_response": {
+        "ResponseMetadata": {
+          "RequestId": "20260430171228338AC8CC50CD17679E0E",
+          "Action": "CreateAsset",
+          "Version": "2024-01-01",
+          "Service": "ark",
+          "Region": "cn-beijing"
+        },
+        "Result": {
+          "Id": "asset-20260430171228-xjrqk"
+        }
+      },
+      "last_checked_at": 1777540367,
+      "last_get_asset_response": {
+        "ResponseMetadata": {
+          "RequestId": "202604301712470378C0223922073B7B3F",
+          "Action": "GetAsset",
+          "Version": "2024-01-01",
+          "Service": "ark",
+          "Region": "cn-beijing"
+        },
+        "Result": {
+          "Id": "asset-20260430171228-xjrqk",
+          "Name": "qingleng_ep01_sh01_direct_refs_图片3_character_fullbody",
+          "AssetType": "Image",
+          "GroupId": "group-20260430171226-5tfs4",
+          "Status": "Active",
+          "CreateTime": "2026-04-30T09:12:28Z",
+          "UpdateTime": "2026-04-30T09:12:37Z",
+          "ProjectName": "default"
+        }
+      }
+    },
+    "图片4": {
+      "role": "character_face",
+      "asset_id": "asset-20260430171229-77kcs",
+      "asset_uri": "asset://asset-20260430171229-77kcs",
+      "status": "Active",
+      "source_image_url": "https://static1203.yingsaidata.com/comic-create/seedance-refs/qingleng-shizun/ep01_sh01/04_星澜_寝殿里衣_面部头像.png",
+      "source_image_path": "characters/清冷师尊爬我墙/星澜/images/星澜_寝殿里衣_面部头像.png",
+      "create_asset_response": {
+        "ResponseMetadata": {
+          "RequestId": "202604301712294FEE72F6FC1E2C4DDD1C",
+          "Action": "CreateAsset",
+          "Version": "2024-01-01",
+          "Service": "ark",
+          "Region": "cn-beijing"
+        },
+        "Result": {
+          "Id": "asset-20260430171229-77kcs"
+        }
+      },
+      "last_checked_at": 1777540367,
+      "last_get_asset_response": {
+        "ResponseMetadata": {
+          "RequestId": "2026043017124758CD8CB22B17F0E7C2B6",
+          "Action": "GetAsset",
+          "Version": "2024-01-01",
+          "Service": "ark",
+          "Region": "cn-beijing"
+        },
+        "Result": {
+          "Id": "asset-20260430171229-77kcs",
+          "Name": "qingleng_ep01_sh01_direct_refs_图片4_character_face",
+          "AssetType": "Image",
+          "GroupId": "group-20260430171226-5tfs4",
+          "Status": "Active",
+          "CreateTime": "2026-04-30T09:12:29Z",
+          "UpdateTime": "2026-04-30T09:12:34Z",
+          "ProjectName": "default"
+        }
+      }
+    },
+    "图片5": {
+      "role": "character_fullbody",
+      "asset_id": "asset-20260430171231-s955p",
+      "asset_uri": "asset://asset-20260430171231-s955p",
+      "status": "Active",
+      "source_image_url": "https://static1203.yingsaidata.com/comic-create/seedance-refs/qingleng-shizun/ep01_sh01/05_星澜_寝殿里衣_9x16全身.png",
+      "source_image_path": "characters/清冷师尊爬我墙/星澜/images/星澜_寝殿里衣_9x16全身.png",
+      "create_asset_response": {
+        "ResponseMetadata": {
+          "RequestId": "20260430171230097CBAD065F4223A4F99",
+          "Action": "CreateAsset",
+          "Version": "2024-01-01",
+          "Service": "ark",
+          "Region": "cn-beijing"
+        },
+        "Result": {
+          "Id": "asset-20260430171231-s955p"
+        }
+      },
+      "last_checked_at": 1777540367,
+      "last_get_asset_response": {
+        "ResponseMetadata": {
+          "RequestId": "20260430171248E2043C48EFEFA0D489C3",
+          "Action": "GetAsset",
+          "Version": "2024-01-01",
+          "Service": "ark",
+          "Region": "cn-beijing"
+        },
+        "Result": {
+          "Id": "asset-20260430171231-s955p",
+          "Name": "qingleng_ep01_sh01_direct_refs_图片5_character_fullbody",
+          "AssetType": "Image",
+          "GroupId": "group-20260430171226-5tfs4",
+          "Status": "Active",
+          "CreateTime": "2026-04-30T09:12:31Z",
+          "UpdateTime": "2026-04-30T09:12:39Z",
+          "ProjectName": "default"
+        }
+      }
+    }
+  },
+  "status_history": [
+    {
+      "time": 1777540351,
+      "statuses": {
+        "图片1": "Active",
+        "图片2": "Processing",
+        "图片3": "Processing",
+        "图片4": "Processing",
+        "图片5": "Processing"
+      }
+    },
+    {
+      "time": 1777540367,
+      "statuses": {
+        "图片1": "Active",
+        "图片2": "Active",
+        "图片3": "Active",
+        "图片4": "Active",
+        "图片5": "Active"
+      }
+    }
+  ],
+  "created_at": 1777540345,
+  "last_checked_at": 1777540367
+}

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Seedance Video Generation"
+  short_description: "Seedance API 人像库审核与视频生成集成工具"
+  default_prompt: "Use $seedance-video-generation to design or review a Seedance 2.0 video generation integration."

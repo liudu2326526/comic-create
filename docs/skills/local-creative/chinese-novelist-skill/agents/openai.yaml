@@ -1,0 +1,4 @@
+interface:
+  display_name: "Chinese Novelist"
+  short_description: "中文长篇小说分章节创作、续写、校验与修复"
+  default_prompt: "Use $chinese-novelist to create or continue this Chinese novel."

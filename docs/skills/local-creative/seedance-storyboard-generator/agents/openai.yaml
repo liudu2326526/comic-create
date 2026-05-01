@@ -1,0 +1,4 @@
+interface:
+  display_name: "Seedance Storyboard"
+  short_description: "小说故事转 Seedance 多集剧本与分镜提示词"
+  default_prompt: "Use $seedance-storyboard-generator to turn this story into a multi-episode Seedance 2.0 script, asset plan, and storyboard prompts."

@@ -1,0 +1,119 @@
+{
+  "provider": "Volcengine Ark",
+  "asset_library": "private_virtual_portrait_assets",
+  "group_id": "group-20260430152443-fs5wr",
+  "project_name": "default",
+  "usage": "ep01_sh03 非九宫格视频生成：柳如烟人物参考图入私域素材库，避免公网真人隐私拦截",
+  "create_asset_group_response": {
+    "ResponseMetadata": {
+      "RequestId": "2026043015244355BE6C0CE4617E2F3530",
+      "Action": "CreateAssetGroup",
+      "Version": "2024-01-01",
+      "Service": "ark",
+      "Region": "cn-beijing"
+    },
+    "Result": {
+      "Id": "group-20260430152443-fs5wr"
+    }
+  },
+  "assets": {
+    "图片1": {
+      "role": "character_face",
+      "asset_id": "asset-20260430152444-bf5g8",
+      "asset_uri": "asset://asset-20260430152444-bf5g8",
+      "status": "Active",
+      "source_image_url": "https://static1203.yingsaidata.com/comic-create/seedance-refs/ep01_sh03/01_柳如烟_封王修士_面部头像.png",
+      "source_image_path": "characters/修罗女帝之绝世无双/柳如烟/images/柳如烟_封王修士_面部头像.png",
+      "create_asset_response": {
+        "ResponseMetadata": {
+          "RequestId": "202604301524435CDF5FBC273622661DC6",
+          "Action": "CreateAsset",
+          "Version": "2024-01-01",
+          "Service": "ark",
+          "Region": "cn-beijing"
+        },
+        "Result": {
+          "Id": "asset-20260430152444-bf5g8"
+        }
+      },
+      "last_checked_at": 1777533900,
+      "last_get_asset_response": {
+        "ResponseMetadata": {
+          "RequestId": "202604301525005A84DC4E6A73EE2F4199",
+          "Action": "GetAsset",
+          "Version": "2024-01-01",
+          "Service": "ark",
+          "Region": "cn-beijing"
+        },
+        "Result": {
+          "Id": "asset-20260430152444-bf5g8",
+          "Name": "ep01_sh03_direct_refs_图片1_character_face",
+          "AssetType": "Image",
+          "GroupId": "group-20260430152443-fs5wr",
+          "Status": "Active",
+          "CreateTime": "2026-04-30T07:24:44Z",
+          "UpdateTime": "2026-04-30T07:24:53Z",
+          "ProjectName": "default"
+        }
+      }
+    },
+    "图片2": {
+      "role": "character_fullbody",
+      "asset_id": "asset-20260430152445-cg98j",
+      "asset_uri": "asset://asset-20260430152445-cg98j",
+      "status": "Active",
+      "source_image_url": "https://static1203.yingsaidata.com/comic-create/seedance-refs/ep01_sh03/02_柳如烟_封王修士_9x16全身.png",
+      "source_image_path": "characters/修罗女帝之绝世无双/柳如烟/images/柳如烟_封王修士_9x16全身.png",
+      "create_asset_response": {
+        "ResponseMetadata": {
+          "RequestId": "20260430152444132360D65E33020CE2D3",
+          "Action": "CreateAsset",
+          "Version": "2024-01-01",
+          "Service": "ark",
+          "Region": "cn-beijing"
+        },
+        "Result": {
+          "Id": "asset-20260430152445-cg98j"
+        }
+      },
+      "last_checked_at": 1777533900,
+      "last_get_asset_response": {
+        "ResponseMetadata": {
+          "RequestId": "202604301525006B8AE552486D6C3CC5FB",
+          "Action": "GetAsset",
+          "Version": "2024-01-01",
+          "Service": "ark",
+          "Region": "cn-beijing"
+        },
+        "Result": {
+          "Id": "asset-20260430152445-cg98j",
+          "Name": "ep01_sh03_direct_refs_图片2_character_fullbody",
+          "AssetType": "Image",
+          "GroupId": "group-20260430152443-fs5wr",
+          "Status": "Active",
+          "CreateTime": "2026-04-30T07:24:45Z",
+          "UpdateTime": "2026-04-30T07:24:54Z",
+          "ProjectName": "default"
+        }
+      }
+    }
+  },
+  "status_history": [
+    {
+      "time": 1777533885,
+      "statuses": {
+        "图片1": "Processing",
+        "图片2": "Processing"
+      }
+    },
+    {
+      "time": 1777533900,
+      "statuses": {
+        "图片1": "Active",
+        "图片2": "Active"
+      }
+    }
+  ],
+  "created_at": 1777533883,
+  "last_checked_at": 1777533900
+}

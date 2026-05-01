@@ -1,0 +1,4 @@
+interface:
+  display_name: "APIMart GPT-Image-2"
+  short_description: "Integrate APIMart GPT-Image-2 image generation."
+  default_prompt: "Integrate or test APIMart GPT-Image-2 image generation with async task polling."

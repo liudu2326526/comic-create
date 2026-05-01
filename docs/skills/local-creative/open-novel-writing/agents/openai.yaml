@@ -1,0 +1,4 @@
+interface:
+  display_name: "Open Novel Writing"
+  short_description: "中文长篇小说设定、大纲、章节正文与评审工作流"
+  default_prompt: "Use $open-novel-writing to plan or write this Chinese novel project."

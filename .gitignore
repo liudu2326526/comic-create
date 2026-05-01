@@ -1,4 +1,34 @@
 .env
 .DS_Store
 **/.DS_Store
-scripts/ep*/videos/
+
+# Runtime/cache artifacts.
+__pycache__/
+*.pyc
+*.pyo
+*.log
+*.pid
+scripts/**/videos/*.metadata.json
+scripts/**/videos/*.metadata_backup_*.json
+
+# Generated or reference media stay local; commit only text metadata/prompts.
+*.png
+*.jpg
+*.jpeg
+*.webp
+*.gif
+*.bmp
+*.tif
+*.tiff
+*.svg
+*.mp4
+*.mov
+*.m4v
+*.avi
+*.mkv
+*.webm
+*.mp3
+*.wav
+*.m4a
+*.aac
+*.flac

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Seedance Prompt"
+  short_description: "Seedance video image prompt generation toolkit"
+  default_prompt: "Use $seedance to create production-ready Seedance 2.0 video and image prompts for this idea."

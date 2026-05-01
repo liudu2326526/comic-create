@@ -1,0 +1,4 @@
+interface:
+  display_name: "Make Prompt Seedance2"
+  short_description: "Seedance 结构化提示词和广告脚本模板生成工具"
+  default_prompt: "Use $make-prompt-seedance2 to create a structured Seedance 2.0 prompt for this video idea."
