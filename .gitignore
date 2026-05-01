@@ -32,3 +32,11 @@ scripts/**/videos/*.metadata_backup_*.json
 *.m4a
 *.aac
 *.flac
+
+# Bundled local skills should be complete, including their own reference assets.
+!docs/skills/local-creative/**/*.png
+!docs/skills/local-creative/**/*.jpg
+!docs/skills/local-creative/**/*.jpeg
+!docs/skills/local-creative/**/*.webp
+!docs/skills/local-creative/**/*.gif
+!docs/skills/local-creative/**/*.svg

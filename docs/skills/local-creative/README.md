@@ -19,3 +19,13 @@
 ## Git 规则
 
 本项目不再提交实际图片、视频、音频等二进制素材。skill 目录中的文字规范、模板、脚本和元数据会进入 Git；示例图片等媒体文件只保留在本地。
+
+## 本地安装
+
+如需把本目录归档的 skills 恢复到当前机器的 Codex skill 目录，可在项目根目录执行：
+
+```bash
+bash docs/skills/local-creative/install-local-skills.sh
+```
+
+脚本会把每个包含 `SKILL.md` 的子目录复制到 `$CODEX_HOME/skills/`，未设置 `CODEX_HOME` 时默认使用 `~/.codex/skills/`。
